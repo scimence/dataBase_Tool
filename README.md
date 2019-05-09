@@ -5,7 +5,7 @@ MySql数据库合并工具（合并同一服务器下，两个数据库文件。
 
 
 #### 数据库合并工具下载：
-https://git.oschina.net/scimence/dataBase_Tool/files/dataBase_Tool_20170712_16.05.zip
+https://scimence.gitee.io/database_tool/files/dataBase_Tool_20170712_16.05.zip
 
 
 #### 使用说明

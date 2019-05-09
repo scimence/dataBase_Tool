@@ -1,0 +1,13 @@
+﻿服务器资源目录(https://gitee.com/scimence/dataBase_Tool/raw/master/)
+本地资源目录(F:\tmp\dataBase_Tool\)
+
+待更新文件(
+
+LICENSE(86d3f3a95c324c9479bd8986968f4327)
+README.en.md(fa21a8fe09014d04733aaffc5ebf5ef1)
+README.md(9c1b6b3f2b7120bf6f8cfd0a6419e511)
+fiels/dataBase_Tool_20170706.zip(a302cc5d19901db898f25518907bae25)
+fiels/dataBase_Tool_20170711.zip(84354aca9b657f7399dbb648a6cc4508)
+fiels/dataBase_Tool_20170712_16.05.zip(e388913b837bd4ef9dc7160d8e012b47)
+
+)待更新文件
